@@ -1,23 +1,23 @@
 # PNU_3991_AR
 ---------
-### ملیکا زمان زاده
+### زهره مشمول
  
 ---
-- [github account](https://github.com/melika-zamanzadeh/)
+- [github account](https://github.com/zohremashmul/)
   : حساب گیت هاب
-- [resume](https://melika-zamanzadeh.github.io/)
+- [resume](https://github.com/zohremashmul/github.io)
   : رزومه
-- [SOP](https://melika-zamanzadeh.github.io/SOP/)
+- [SOP](https://github.com/zohremashmul/sop)
   :انگیزنه نامه 
   
 ------------------
 
 [Java Script](https://github.com/melika-zamanzadeh/PNU_3991_AR/blob/main/CamScanner%2011-05-2020%2010.49.01_1.pdf)
 
-[jlord Pathwork](https://github.com/melika-zamanzadeh/PNU_3991_AR/blob/main/Capture.pdf)
+
 
 -------------------
-# گروه های ملیکا زمان زاده
+##گروه های زهره مشمول
 
 ------------------
 ## Winter Semester Courses 1399/2020
