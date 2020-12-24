@@ -14,7 +14,7 @@
 
 [Java Script](https://github.com/zohremashmul/PNU_3991_AR/blob/main/JavaScript_certificate.pdf)
 
-[تایپ لاتک روش پژوهش و ارائه صفحه 178 تا 180](https://github.com/zohremashmul/PNU_3991_AR/tree/main/latex%20178-180)
+[تایپ لاتک روش پژوهش و ارائه صفحه 178 تا 180](https://github.com/zohremashmul/PNU_3991_AR/tree/main/latex%20178%20179%20180)
 
 -------------------
 ##گروه های زهره مشمول
